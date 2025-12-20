@@ -1,3 +1,6 @@
+![Dashboard Preview](Screenshot%202025-11-22%20131808.png)
+
+
 📊 Customer Behavior Analysis Project
 
 
@@ -104,7 +107,7 @@ Shipping type analysis
 
 Top-rated & top-discounted products
 
-![Dashboard Preview](Screenshot%202025-11-22%20131808.png)
+
 
 
 
