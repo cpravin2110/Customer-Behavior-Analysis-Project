@@ -32,20 +32,6 @@ The end-to-end process includes Python preprocessing, SQL analytics, and a Power
 
 ---
 
-🧰 Tools & Technologies
-
-Python (Pandas, NumPy) – Data cleaning, feature engineering
-
-Jupyter Notebook – EDA and preprocessing
-
-SQL (PostgreSQL) – Business analytics
-
-Power BI – Interactive dashboard
-
-CSV Dataset – 3,900 rows of customer purchase data
-
-
----
 
 
 📁 Project Structure
@@ -157,8 +143,23 @@ Creating dashboards for decision-making
 Customer segmentation & behavioral analytics
 
 
+---
+
+🧰 Tools & Technologies
+
+Python (Pandas, NumPy) – Data cleaning, feature engineering
+
+Jupyter Notebook – EDA and preprocessing
+
+SQL (PostgreSQL) – Business analytics
+
+Power BI – Interactive dashboard
+
+CSV Dataset – 3,900 rows of customer purchase data
+
 
 ---
+
 
 
 🤝 Connect
