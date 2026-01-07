@@ -1,12 +1,16 @@
 ![Dashboard Preview](Screenshot%202025-11-22%20131808.png)
 
 
+---
+
 📊 Customer Behavior Analysis Project
 
 
 Python • SQL • Power BI
 
 This project analyzes 3,900 customer transactions to uncover insights into customer behavior, loyalty patterns, and revenue drivers for a retail company. The goal is to help the business optimize marketing strategies and improve customer engagement using data-driven insights.
+
+---
 
 
 🚀 Project Overview
@@ -26,6 +30,8 @@ Effect of shipping types on purchase amount
 The end-to-end process includes Python preprocessing, SQL analytics, and a Power BI dashboard for visualization.
 
 
+---
+
 🧰 Tools & Technologies
 
 Python (Pandas, NumPy) – Data cleaning, feature engineering
@@ -39,6 +45,8 @@ Power BI – Interactive dashboard
 CSV Dataset – 3,900 rows of customer purchase data
 
 
+---
+
 
 📁 Project Structure
 
@@ -51,6 +59,9 @@ CSV Dataset – 3,900 rows of customer purchase data
 ├── customer_shopping_behavior.csv
 ├── Screenshot 2025-11-22 131808.png
 └── README.md
+
+
+---
 
 
 
@@ -108,6 +119,7 @@ Shipping type analysis
 Top-rated & top-discounted products
 
 
+---
 
 
 
@@ -128,6 +140,7 @@ Subscribers generated $62K, Non-subscribers $170K
 Top discounted products: Hat, Sneakers, Coat, Sweater, Pants
 
 
+---
 
 🎯 Outcome
 
@@ -144,6 +157,8 @@ Creating dashboards for decision-making
 Customer segmentation & behavioral analytics
 
 
+
+---
 
 
 🤝 Connect
