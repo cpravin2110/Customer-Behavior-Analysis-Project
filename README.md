@@ -42,7 +42,6 @@ The end-to-end process includes Python preprocessing, SQL analytics, and a Power
 ├── Customer_behavior_analysis.ipynb
 ├── customer behavior sql query.sql
 ├── customer_behavior_dashboard.pbix
-├── customer_shopping_behavior.csv
 ├── Screenshot 2025-11-22 131808.png
 └── README.md
 
