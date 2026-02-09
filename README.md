@@ -1,9 +1,13 @@
+# 📊 Customer Behavior Analysis Project
+
+---
+
+
 ![Dashboard Preview](Screenshot%202025-11-22%20131808.png)
 
 
 ---
 
-# 📊 Customer Behavior Analysis Project
 
 
  **Python • SQL • Power BI**
