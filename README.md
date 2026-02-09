@@ -58,7 +58,7 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 » Treated missing values
 
-» Performed transformations & created new columns:
+**💠 Performed transformations & created new columns:**
 
 » age_group
 
@@ -74,7 +74,7 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 ### 2️⃣ SQL Analysis (PostgreSQL)
 
-» Performed business queries to analyze:
+**💠 Performed business queries to analyze:**
 
 » Revenue by customer age group
 
@@ -91,7 +91,7 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 ### 3️⃣ Power BI Dashboard
 
-» Developed a visually appealing dashboard that includes:
+**💠 Developed a visually appealing dashboard that includes:**
 
 » Revenue by age group & gender
 
@@ -110,26 +110,26 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 ## 📈 Key Findings
 
-⁘  Young Adults contribute the highest revenue ($62,143)
+⁘  Young Adults contribute the highest revenue ($62,143).
 
-⁘  Loyal customers (5+ purchases) make up 80% of the customer base
+⁘  Loyal customers (5+ purchases) make up 80% of the customer base.
 
-⁘  Male customers generate 68% of total revenue
+⁘  Male customers generate 68% of total revenue.
 
-⁘  Express shipping correlates with higher average purchase value
+⁘  Express shipping correlates with higher average purchase value.
 
-⁘  Nearly 50% of high-value purchases use discounts
+⁘  Nearly 50% of high-value purchases use discounts.
 
-⁘  Subscribers generated $62K, Non-subscribers $170K
+⁘  Subscribers generated $62K, Non-subscribers $170K.
 
-⁘  Top discounted products: Hat, Sneakers, Coat, Sweater, Pants
+⁘  Top discounted products: Hat, Sneakers, Coat, Sweater, Pants.
 
 
 ---
 
 ## 🎯 Outcome
 
-⁘  This project strengthened skills in:
+**💠 This project strengthened skills in:**
 
 ⁘  End-to-end data analysis
 
@@ -146,15 +146,15 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 ## 🧰 Tools & Technologies
 
-⁘  Python (Pandas, NumPy) – Data cleaning, feature engineering
+⁘  Python (Pandas, NumPy) – Data cleaning, feature engineering.
 
-⁘  Jupyter Notebook – EDA and preprocessing
+⁘  Jupyter Notebook – EDA and preprocessing.
 
-⁘  SQL (PostgreSQL) – Business analytics
+⁘  SQL (PostgreSQL) – Business analytics.
 
-⁘  Power BI – Interactive dashboard
+⁘  Power BI – Interactive dashboard.
 
-⁘  CSV Dataset – 3,900 rows of customer purchase data
+⁘  CSV Dataset – 3,900 rows of customer purchase data.
 
 
 ---
