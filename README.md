@@ -3,7 +3,7 @@
 
 ---
 
-## 📊 Customer Behavior Analysis Project
+# 📊 Customer Behavior Analysis Project
 
 
  **Python • SQL • Power BI**
@@ -13,7 +13,7 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 ---
 
 
-### 🚀 Project Overview
+## 🚀 Project Overview
 
 **💠 The analysis focuses on understanding:**
 
@@ -34,7 +34,7 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 
 
-### 📁 Project Structure
+## 📁 Project Structure
 
 📂 Customer-Behavior-Analysis-Project
 │
@@ -50,7 +50,7 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 
 
-### 🔄 Workflow Summary
+## 🔄 Workflow Summary
 
 ### 1️⃣ Data Cleaning & Feature Engineering (Python)
 
@@ -108,7 +108,7 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 
 
-### 📈 Key Findings
+## 📈 Key Findings
 
 ⁘  Young Adults contribute the highest revenue ($62,143).
 
@@ -127,7 +127,7 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 ---
 
-### 🎯 Outcome
+## 🎯 Outcome
 
 **💠 This project strengthened skills in:**
 
@@ -144,7 +144,7 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 ---
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 ⁘  Python (Pandas, NumPy) – Data cleaning, feature engineering.
 
