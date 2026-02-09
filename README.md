@@ -15,7 +15,7 @@ This project analyzes 3,900 customer transactions to uncover insights into custo
 
 ## 🚀 Project Overview
 
-⁘  The analysis focuses on understanding:
+**💠 The analysis focuses on understanding:**
 
 ⁘  Which customer groups generate the most revenue
 
