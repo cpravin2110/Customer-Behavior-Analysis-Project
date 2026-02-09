@@ -3,38 +3,38 @@
 
 ---
 
-📊 Customer Behavior Analysis Project
+## 📊 Customer Behavior Analysis Project
 
 
-Python • SQL • Power BI
+### Python • SQL • Power BI
 
 This project analyzes 3,900 customer transactions to uncover insights into customer behavior, loyalty patterns, and revenue drivers for a retail company. The goal is to help the business optimize marketing strategies and improve customer engagement using data-driven insights.
 
 ---
 
 
-🚀 Project Overview
+## 🚀 Project Overview
 
-The analysis focuses on understanding:
+⁘  The analysis focuses on understanding:
 
-Which customer groups generate the most revenue
+⁘  Which customer groups generate the most revenue
 
-How product categories perform
+⁘  How product categories perform
 
-Impact of discounts & subscriptions
+⁘  Impact of discounts & subscriptions
 
-Customer loyalty patterns
+⁘  Customer loyalty patterns
 
-Effect of shipping types on purchase amount
+⁘  Effect of shipping types on purchase amount
 
-The end-to-end process includes Python preprocessing, SQL analytics, and a Power BI dashboard for visualization.
+⁘  The end-to-end process includes Python preprocessing, SQL analytics, and a Power BI dashboard for visualization.
 
 
 ---
 
 
 
-📁 Project Structure
+## 📁 Project Structure
 
 📂 Customer-Behavior-Analysis-Project
 │
@@ -50,119 +50,119 @@ The end-to-end process includes Python preprocessing, SQL analytics, and a Power
 
 
 
-🔄 Workflow Summary
+## 🔄 Workflow Summary
 
-1️⃣ Data Cleaning & Feature Engineering (Python)
+### 1️⃣ Data Cleaning & Feature Engineering (Python)
 
-Loaded dataset in Jupyter Notebook
+» Loaded dataset in Jupyter Notebook
 
-Treated missing values
+» Treated missing values
 
-Performed transformations & created new columns:
+» Performed transformations & created new columns:
 
-age_group
+» age_group
 
-purchase_frequency_days
+» purchase_frequency_days
 
-is_discounted
+» is_discounted
 
-loyalty_segment (New, Returning, Loyal)
+» loyalty_segment (New, Returning, Loyal)
 
-Exported cleaned data for SQL analysis
-
-
-
-2️⃣ SQL Analysis (PostgreSQL)
-
-Performed business queries to analyze:
-
-Revenue by customer age group
-
-Customer segmentation
-
-Subscription vs spending behavior
-
-Discount impact on sales
-
-Top products by count & average rating
+» Exported cleaned data for SQL analysis
 
 
 
+### 2️⃣ SQL Analysis (PostgreSQL)
 
-3️⃣ Power BI Dashboard
+» Performed business queries to analyze:
 
-Developed a visually appealing dashboard that includes:
+» Revenue by customer age group
 
-Revenue by age group & gender
+» Customer segmentation
 
-Customer loyalty breakdown
+» Subscription vs spending behavior
 
-Subscription impact
+» Discount impact on sales
 
-Shipping type analysis
-
-Top-rated & top-discounted products
-
-
----
+» Top products by count & average rating
 
 
 
-📈 Key Findings
 
-Young Adults contribute the highest revenue ($62,143)
+### 3️⃣ Power BI Dashboard
 
-Loyal customers (5+ purchases) make up 80% of the customer base
+» Developed a visually appealing dashboard that includes:
 
-Male customers generate 68% of total revenue
+» Revenue by age group & gender
 
-Express shipping correlates with higher average purchase value
+» Customer loyalty breakdown
 
-Nearly 50% of high-value purchases use discounts
+» Subscription impact
 
-Subscribers generated $62K, Non-subscribers $170K
+» Shipping type analysis
 
-Top discounted products: Hat, Sneakers, Coat, Sweater, Pants
-
-
----
-
-🎯 Outcome
-
-This project strengthened skills in:
-
-End-to-end data analysis
-
-Python data cleaning & feature engineering
-
-Writing optimized SQL business queries
-
-Creating dashboards for decision-making
-
-Customer segmentation & behavioral analytics
-
-
----
-
-🧰 Tools & Technologies
-
-Python (Pandas, NumPy) – Data cleaning, feature engineering
-
-Jupyter Notebook – EDA and preprocessing
-
-SQL (PostgreSQL) – Business analytics
-
-Power BI – Interactive dashboard
-
-CSV Dataset – 3,900 rows of customer purchase data
+» Top-rated & top-discounted products
 
 
 ---
 
 
 
-🤝 Connect
+## 📈 Key Findings
 
-If you like this project or want to collaborate, feel free to connect!
+⁘  Young Adults contribute the highest revenue ($62,143)
+
+⁘  Loyal customers (5+ purchases) make up 80% of the customer base
+
+⁘  Male customers generate 68% of total revenue
+
+⁘  Express shipping correlates with higher average purchase value
+
+⁘  Nearly 50% of high-value purchases use discounts
+
+⁘  Subscribers generated $62K, Non-subscribers $170K
+
+⁘  Top discounted products: Hat, Sneakers, Coat, Sweater, Pants
+
+
+---
+
+## 🎯 Outcome
+
+⁘  This project strengthened skills in:
+
+⁘  End-to-end data analysis
+
+⁘  Python data cleaning & feature engineering
+
+⁘  Writing optimized SQL business queries
+
+⁘  Creating dashboards for decision-making
+
+⁘  Customer segmentation & behavioral analytics
+
+
+---
+
+## 🧰 Tools & Technologies
+
+⁘  Python (Pandas, NumPy) – Data cleaning, feature engineering
+
+⁘  Jupyter Notebook – EDA and preprocessing
+
+⁘  SQL (PostgreSQL) – Business analytics
+
+⁘  Power BI – Interactive dashboard
+
+⁘  CSV Dataset – 3,900 rows of customer purchase data
+
+
+---
+
+
+
+### 🤝 Connect
+
+**If you like this project or want to collaborate, feel free to connect!**
 
 📌 LinkedIn:  [LinkedIn](https://www.linkedin.com/in/iampravinchavan/) 
