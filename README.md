@@ -2,7 +2,7 @@
 
 ---
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/cpravin2110/Customer-Behavior-Analysis-Project/blob/3040a03800802d09ccfd996001a557997410d2f6/customer%20analysis%20template.png)
 
 ![Dashboard Preview](Screenshot%202025-11-22%20131808.png)
 
